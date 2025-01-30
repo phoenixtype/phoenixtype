@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phoenixtype
-- 👀 I’m interested in Cloud Application Development, Blockchain and Application/Network Security
-- 🌱 I’m currently learning System Design, Web3 and Software Performance Optimization.
+- 👀 I’m interested in ML/GenAI, Blockchain and Application Security
+- 🌱 I’m currently learning Machine Learning, System Designfor Large Scale Applications and Software Performance Optimization.
 - 📫 How to reach me @phoenixtype (IG | Twitter)
 
 <!---
