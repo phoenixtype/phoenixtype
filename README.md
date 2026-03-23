@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @phoenixtype
-- 👀 I’m interested in ML/DL
-- 🌱 I’m currently learning Machine Learning, System Designfor Large Scale Applications and Software Performance Optimization.
-- 📫 How to reach me @phoenixtype_ai on X
+- Hi, I’m @phoenixtype
+- I’m interested in ML/DL
+- I’m currently learning Machine Learning, System Designfor Large Scale Applications and Software Performance Optimization.
+- How to reach me @phoenixtype_ai on X
